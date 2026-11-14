@@ -1,0 +1,5 @@
+---
+description: Canonical project rules for the Personal Job Workspace monorepo
+alwaysApply: true
+---
+Read `AGENTS.md` first; it is authoritative. Read `docs/STATUS.md` and relevant SOT docs before coding. Use `.agents/skills/` for task-specific workflows. Preserve the single-user, private, strict-zero-infrastructure-cost architecture. Never bypass human approval for email sending or invent resume/recruiter facts. Add tests, update docs, and report only checks actually run.

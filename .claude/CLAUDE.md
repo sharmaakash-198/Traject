@@ -1,0 +1,1 @@
+Read `AGENTS.md` first. It is the canonical project policy. Read `docs/STATUS.md` and relevant SOT documents before editing. Use `.agents/skills/` for task-specific workflows. Keep changes incremental and report actual validation results.

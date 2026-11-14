@@ -1,0 +1,3 @@
+# Supabase local services are managed by `npx supabase start`.
+# Add only supporting local services here when a concrete requirement exists.
+services: {}
